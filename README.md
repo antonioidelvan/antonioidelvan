@@ -1,6 +1,5 @@
 # Olá, Eu sou o Antonio Idelvan
 - 👋 Oi, Eu sou @antonioidelvan, um iniciante no mundo da programação.
-- 👀 Sou um aspirante a programador, que pensa em focar em desenvolvimento mobile.
 
  <div>
   <a href="https://github.com/antonioidelvan">
