@@ -1,5 +1,5 @@
 # Olá, Eu sou o Antonio Idelvan :D
-- 👋 Oi, Eu sou @antonioidelvan, atualmente estou estudante HTML, CSS e JavaScript.
+- 👋 Atualmente estou estudando HTML, CSS e JavaScript.
 
  <div>
   <a href="https://github.com/antonioidelvan">
